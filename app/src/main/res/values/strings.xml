@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pizza Order</string>
+    <string name="welcome_to_pizza_order_place">Welcome to Pizza Order Place</string>
+    <string name="i_agree_on_terms_of_condition">I agree on terms of condition</string>
+    <string name="display_menu">DISPLAY MENU</string>
+    <string name="you_selected">You Selected:</string>
+    <string name="pay_with">Pay with</string>
+    <string name="cash">Cash</string>
+    <string name="card">Card</string>
+    <string name="place_order">Place Order</string>
+</resources>
